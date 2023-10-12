@@ -11,7 +11,7 @@ with a web presence as an official means of communication, likewise, it does not
 with a platform for the training of its students in the modalities
 face-to-face and online
 
-- 🗺️ [Wiki: Set up a new Server](https://www.notion.so/tianlu/Tutorial-Academy750-Set-Up-a-new-server-a5a9226a38ef4de4986d5ac74c201b53?pvs=4)
+- 🗺️ [Wiki & Credentials](https://www.notion.so/tianlu/Wiki-5833b818639448cea5607f6a7fa86ee5)
 
 ## Repositories
 
