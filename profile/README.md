@@ -22,14 +22,14 @@ face-to-face and online
 
 **🥇 Production**
 - [Academia750 (Frontend)](https://academia750.es)
-- [Entrenamiento](https://entrenamiento.academia750.es/docs)
+- [Entrenamiento (Backend)](https://entrenamiento.academia750.es/docs)
 
 **🥈 Stagging**
 
 _Account under the control of Tianlu_ 
 
-- [Netlify](https://academy-750-tianlu.netlify.app/)
-- [Tianlu Staging Server](https://api-academy750.tianlu.tech/docs)
+- [Netlify (Frontend)](https://academy-750-tianlu.netlify.app/)
+- [Tianlu Staging Server (Backend)](https://api-academy750.tianlu.tech/docs)
 
 # Owner 
 
