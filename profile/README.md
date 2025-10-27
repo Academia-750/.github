@@ -27,7 +27,7 @@ face-to-face and online
 **🥈 Stagging**
 
 - [Staging](https://test.academia750.es/lesson/list)
-- [Api Staging)](https//test-entrenamiento.academia750.es)
+- [Api Staging](https//test-entrenamiento.academia750.es)
 
 # Owner 
 
