@@ -17,6 +17,7 @@ face-to-face and online
 
 - [Frontend](https://github.com/Academia-750/academia750-frontend-vue)
 - [Backend](https://github.com/Academia-750/academy750-backend-laravel)
+- [Map SDK](https://github.com/Academia-750/academia-maps-nextjs)
 
 ## Environments
 
